@@ -1,0 +1,29 @@
+
+KURULUM (ÇOK BASİT):
+----------------------------------------------------------------
+1. Klasördeki "Kurucu.exe" programını çalıştırın.
+   (Alternatif olarak "Kurulum.bat" dosyasını da çalıştırabilirsiniz.)
+
+2. Program Among Us oyununuzun yerini otomatik olarak bulacaktır.
+   (Eğer otomatik bulamazsa "Gözat" butonuna basıp Among Us'ın 
+   kurulu olduğu klasörü seçin).
+
+3. "KURULUMU YAP VE TÜM KOZMETİKLERİ AÇ" butonuna tıklayın.
+
+4. Kurulum birkaç saniye içinde tamamlanacaktır!
+
+----------------------------------------------------------------
+OYUNDA NASIL KULLANILIR?
+----------------------------------------------------------------
+1. Epic Games Launcher veya Steam üzerinden Among Us'ı normal 
+   şekilde başlatın.
+
+2. Oyun açıldığında klavyenizdeki "DELETE" (veya "Del") tuşuna basın.
+
+3. Ekrana küçük "Kozmetik Menüsü" penceresi gelecektir.
+   "Tüm Kozmetikleri Aç" seçeneği varsayılan olarak zaten aktiftir.
+
+4. Lobide gardobunuzuna girdiğinizde otomatik tüm skinler gelecektir.
+sadece skinler değil arkaplanlar,petler kozmetikler de yanında gelir
+VE HERKESDE GÖRÜNÜR
+İyi oyunlar!
